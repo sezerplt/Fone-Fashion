@@ -1,5 +1,5 @@
 node_modules
 src
 *.json
-vite.config
-.cjs
+vite.config.ts
+*.cjs
